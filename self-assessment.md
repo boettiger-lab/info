@@ -90,6 +90,7 @@ What have you accomplished since your last self-assessment? (Consider each of th
 
 ## Sources for the above content:
 
+- Allison Shaw, [Shaw Lab Group](http://allisonkshaw.weebly.com/)
 -	At the Helm: Leading Your Laboratory, Second Edition (Kathy Barker)
 -	https://sociobiology.wordpress.com/2015/09/02/what-are-your-goals-for-fall/
 More resources:
